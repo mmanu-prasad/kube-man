@@ -1,4 +1,4 @@
-pipelineJob('Hello-Linux') {
+pipelineJob('HelloLinux') {
     description('''A sample pipeline job for Hello-Linux project.'''.stripIndent())
 
     definition {
