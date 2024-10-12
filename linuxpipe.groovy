@@ -6,7 +6,7 @@ pipelineJob('HelloLinux') {
             scm {
                 git {
                     remote {
-                        url('https://github.com/your-repo/your-project.git')
+                        url('https://github.com/mmanu-prasad/kube-man.git')
                     }
                     branch('main')
                 }
