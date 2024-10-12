@@ -1,4 +1,4 @@
-pipeline ('Hello'){
+pipeline {
     agent any
 
     stages {
